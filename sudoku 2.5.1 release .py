@@ -3290,7 +3290,7 @@ class Ui_MainWindow(object):
         self.Start_solve.setText(_translate("MainWindow", "Solve"))
         self.Reset.setText(_translate("MainWindow", "Reset"))
         self.Kill.setText(_translate("MainWindow", "Exit"))
-        self.label.setText(_translate("MainWindow", "Sudoku Puzzle Solver presented by empty brains"))
+        self.label.setText(_translate("MainWindow", "Sudoku Puzzle Solver presented by 12A"))
         self.label_2.setText(_translate("MainWindow", '''░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
