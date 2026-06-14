@@ -21,4 +21,4 @@ compared to using a backtracking algorithm, we have gone with constraint propoga
 
 ## improvements
 - Add more functionalities where we provide hints and solve the puzzle step by step and indication on how we solved it.
-
+- seperate GUI code from the actual program ( was unaware at the time of building this program that QT5 GUI elements can be imported and dont need to be baked into the code )
