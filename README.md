@@ -10,9 +10,9 @@ terms used:
 #compaitable = such a way that no collisions occur
 
 
-program works by appending the possible elements at a location to a dictionary which we refer to as the core. the core is updated through a series of algorithms which check for compaitable elements at the given location. on each solving run, core is traversed and at each locations where only a single element can be reside it becomes clear that we have a solution for that particular location and the puzzle is updated irreversibly.
+> program works by appending the possible elements at a location to a dictionary which we refer to as the core. the core is updated through a series of algorithms which check for compaitable elements at the given location. on each solving run, core is traversed and at each locations where only a single element can be reside it becomes clear that we have a solution for that particular location and the puzzle is updated irreversibly.
 
-compared to using a backtracking algorithm, we have gone with constraint propogation. which makes it unreliable and somewhat complicated but more.. natural.
+> compared to using a backtracking algorithm, we have gone with constraint propogation. which makes it unreliable and somewhat complicated but more.. natural.
 
 ## current restrictions 
 -  the program currently does not have algorithms to handle naked pairs and other advanced methods to solve sudoku
